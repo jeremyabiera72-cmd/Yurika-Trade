@@ -1,0 +1,13 @@
+{
+  "name": "YurikaTrade",
+  "description": "AI-powered chart analysis platform for market insights and educational technical analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Chart Analysis",
+    "Real-time Market Data",
+    "Educational Insights"
+  ]
+}
